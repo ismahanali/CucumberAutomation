@@ -5,7 +5,6 @@ import io.cucumber.java.Before;
 
 public class Hooks {
 
-	// 1. Using Hooks for All Scenarios
 	@Before
 	public void beforeScenario() {
 		// Code to run before every scenario
