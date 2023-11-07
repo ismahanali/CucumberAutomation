@@ -1,0 +1,8 @@
+com/bptn/CucumberAutomation/stepDefinitions/LoginSteps.class
+com/bptn/CucumberAutomation/utils/Hooks.class
+com/bptn/CucumberAutomation/stepDefinitions/SignUpSteps.class
+com/bptn/CucumberAutomation/stepDefinitions/StrongPasswordSteps.class
+com/bptn/CucumberAutomation/cucumberRunners/RunCucumberTest.class
+com/bptn/CucumberAutomation/stepDefinitions/CalculatorSteps.class
+com/bptn/CucumberAutomation/stepDefinitions/ShoppingCartSteps.class
+com/bptn/CucumberAutomation/stepDefinitions/ExampleSteps.class
