@@ -1,3 +1,0 @@
-# Logger
-logging.level:
-  '[com.bptn.CucumberAutomation]': DEBUG 

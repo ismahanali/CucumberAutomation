@@ -1,4 +1,0 @@
-test:
-  url: 'https://bonigarcia.dev/selenium-webdriver-java/login-form.html'
-  browser: chrome
-  default.timeout: 30

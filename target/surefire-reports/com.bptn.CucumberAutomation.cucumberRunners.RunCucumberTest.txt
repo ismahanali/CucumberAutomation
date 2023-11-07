@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.bptn.CucumberAutomation.cucumberRunners.RunCucumberTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.089 s - in com.bptn.CucumberAutomation.cucumberRunners.RunCucumberTest
